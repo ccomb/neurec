@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE KDevPrjSession ><KDevPrjSession>
+ <LastCompileConfig>(Par défaut)</LastCompileConfig>
+ <Mainframe MaximizeMode="1" />
+ <DocsAndViews NumberOfDocuments="2" >
+  <Doc0 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="2" CursorPosCol="0" FileName="/mnt/diskatouf/Informatique/Intelligence artificielle/neurec/neurec/neurec/main.cpp" >
+   <View0 Top="0" Width="1050" Attach="0" Height="457" Left="0" Focus="1" Type="KWriteView" MinMaxMode="0" />
+   <View1 Top="0" Width="1050" Attach="0" Height="457" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc0>
+  <Doc1 Type="CDocBrowser" NumberOfViews="1" FileName="file:/usr/share/doc/HTML/en/kdevelop/reference/CPLUSPLUS/SYNTAX/keywords.html" >
+   <View Top="0" Width="1050" Attach="0" Height="457" Left="0" Focus="0" Type="KHTMLView" MinMaxMode="0" />
+  </Doc1>
+ </DocsAndViews>
+</KDevPrjSession>
